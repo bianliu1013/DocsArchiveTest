@@ -1,0 +1,24 @@
+{
+	"redirections": [
+		{
+			"source_path": "jinhwaintune/using-your-android-device-with-intune.md",
+			"redirect_url": "https://ppe.docs.microsoft.com/JinhwaIntuneArchive/using-your-android-device-with-intune",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "jinhwaintune/using-your-ios-or-macos-device-with-intune.md",
+			"redirect_url": "https://ppe.docs.microsoft.com/JinhwaIntuneArchive/using-your-ios-or-macos-device-with-intune",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "jinhwaintune/using-your-windows-device-with-intune.md",
+			"redirect_url": "https://ppe.docs.microsoft.com/JinhwaIntuneArchive/using-your-windows-device-with-intune",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "jinhwaintune/using-the-intune-company-portal-website.md",
+			"redirect_url": "https://ppe.docs.microsoft.com/JinhwaIntuneArchive/using-the-intune-company-portal-website",
+			"redirect_document_id": false
+		}
+	]
+}
