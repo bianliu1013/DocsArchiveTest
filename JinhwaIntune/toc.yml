@@ -6,19 +6,27 @@ items:
   - name: Use managed devices to get work done
     NameInDevLangs: {}
     href: use-managed-devices-to-get-work-done.md
-    Metadata: {}
+    Metadata:
+      NameInDevLangs: {}
+      Metadata: {}
   - name: What information can my company see with Intune?
     NameInDevLangs: {}
     href: what-info-can-your-company-see-when-you-enroll-your-device-in-intune.md
-    Metadata: {}
+    Metadata:
+      NameInDevLangs: {}
+      Metadata: {}
   - name: What happens when I reset my device?
     NameInDevLangs: {}
     href: what-happens-if-you-reset-your-device-cpwebsite.md
-    Metadata: {}
+    Metadata:
+      NameInDevLangs: {}
+      Metadata: {}
   - name: How to sign in to the Company Portal
     NameInDevLangs: {}
     href: sign-in-to-the-company-portal.md
-    Metadata: {}
+    Metadata:
+      NameInDevLangs: {}
+      Metadata: {}
   - name: Using your Android device with Intune
     NameInDevLangs: {}
     href: using-your-android-device-with-intune.md
@@ -26,13 +34,19 @@ items:
     - name: What happens when you enroll an Android device?
       NameInDevLangs: {}
       href: what-happens-if-you-install-the-company-portal-app-and-enroll-your-device-in-intune-android.md
-      Metadata: {}
+      Metadata:
+        NameInDevLangs: {}
+        Metadata: {}
     - name: Fixing common issues with Android
       NameInDevLangs: {}
       href: troubleshoot-your-device-android.md
-      Metadata: {}
+      Metadata:
+        NameInDevLangs: {}
+        Metadata: {}
     Metadata:
-      is_archived: true
+      NameInDevLangs: {}
+      Metadata:
+        is_archived: true
   - name: Using your iOS or macOS device with Intune
     NameInDevLangs: {}
     href: using-your-iOS-or-macOS-device-with-intune.md
@@ -40,13 +54,19 @@ items:
     - name: What happens when you enroll an iOS device?
       NameInDevLangs: {}
       href: what-happens-if-you-install-the-company-portal-app-and-enroll-your-device-in-intune-ios.md
-      Metadata: {}
+      Metadata:
+        NameInDevLangs: {}
+        Metadata: {}
     - name: Fixing common issues with iOS
       NameInDevLangs: {}
       href: troubleshoot-your-device-iOS.md
-      Metadata: {}
+      Metadata:
+        NameInDevLangs: {}
+        Metadata: {}
     Metadata:
-      is_archived: true
+      NameInDevLangs: {}
+      Metadata:
+        is_archived: true
   - name: Using your Windows device with Intune
     NameInDevLangs: {}
     href: using-your-windows-device-with-intune.md
@@ -54,21 +74,36 @@ items:
     - name: What happens when you enroll a Windows 10 device?
       NameInDevLangs: {}
       href: what-happens-if-you-install-the-company-portal-app-and-enroll-your-device-in-intune-windows10.md
-      Metadata: {}
+      Metadata:
+        NameInDevLangs: {}
+        Metadata: {}
     - name: What happens when you enroll a Windows device?
       NameInDevLangs: {}
       href: what-happens-if-you-install-the-company-portal-app-and-enroll-your-device-in-intune-windows.md
-      Metadata: {}
+      Metadata:
+        NameInDevLangs: {}
+        Metadata: {}
     - name: Fixing common issues with Windows
       NameInDevLangs: {}
       href: troubleshoot-your-device-windows.md
-      Metadata: {}
+      Metadata:
+        NameInDevLangs: {}
+        Metadata: {}
+        is_archived: true
     Metadata:
-      is_archived: true
+      NameInDevLangs: {}
+      Metadata:
+        is_archived: true
   - name: Using the Intune Company Portal website
     NameInDevLangs: {}
     href: using-the-intune-company-portal-website.md
     Metadata:
-      is_archived: true
+      NameInDevLangs: {}
+      Metadata:
+        is_archived: true
+  Metadata:
+    NameInDevLangs: {}
+    Metadata: {}
+Metadata:
+  NameInDevLangs: {}
   Metadata: {}
-Metadata: {}
