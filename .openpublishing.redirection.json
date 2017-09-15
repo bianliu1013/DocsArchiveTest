@@ -19,6 +19,11 @@
 			"source_path": "jinhwaintune/using-the-intune-company-portal-website.md",
 			"redirect_url": "https://ppe.docs.microsoft.com/JinhwaIntuneArchive/using-the-intune-company-portal-website",
 			"redirect_document_id": false
+		},
+		{
+			"source_path": "jinhwaintune/troubleshoot-your-device-windows.md",
+			"redirect_url": "https://ppe.docs.microsoft.com/JinhwaIntuneArchive/troubleshoot-your-device-windows",
+			"redirect_document_id": false
 		}
 	]
 }
