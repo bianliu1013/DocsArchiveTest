@@ -24,6 +24,11 @@
 			"source_path": "jinhwaintune/troubleshoot-your-device-windows.md",
 			"redirect_url": "https://ppe.docs.microsoft.com/JinhwaIntuneArchive/troubleshoot-your-device-windows",
 			"redirect_document_id": false
+		},
+		{
+			"source_path": "jinhwaintune/what-info-can-your-company-see-when-you-enroll-your-device-in-intune.md",
+			"redirect_url": "https://ppe.docs.microsoft.com/JinhwaIntuneArchive/what-info-can-your-company-see-when-you-enroll-your-device-in-intune",
+			"redirect_document_id": false
 		}
 	]
 }
